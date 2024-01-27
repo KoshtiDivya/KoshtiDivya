@@ -1,3 +1,4 @@
+![logo](https://github.com/KoshtiDivya/KoshtiDivya/blob/main/divya%20temp.jpg)
 <h1 align="center">Hi 👋, I'm Koshti Divya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
