@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koshtidivya&label=Profile%20views&color=0e75b6&style=flat" alt="koshtidivya" /> </p>
 
-- 🌱 I’m currently learning **JAVA,C and other languages**
+- 🌱 I’m currently learning **JavaScript, Python and other languages**
 
 - 📫 How to reach me **koshtidivya2004@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
