@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koshtidivya&label=Profile%20views&color=0e75b6&style=flat" alt="koshtidivya" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Python and other languages**
+- 🌱 I’m currently learning **React, NodeJs and other languages**
 
 - 📫 How to reach me **koshtidivya2004@gmail.com**
 
